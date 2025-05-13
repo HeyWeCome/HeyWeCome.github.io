@@ -28,15 +28,18 @@ My research interest includes information diffusion mechanisms, user behavior mo
 
 # 📝 Publications
 #### 📈 Information Diffusion Prediction
-- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace;">SIGIR 2025</span> A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*.
-- ``TCSS 2022`` A dynamic information dissemination model based on user awareness and evolutionary games, Yunpeng Xiao, **Weikang He**, Tao Yang, Qian Li. *IEEE Transactions on Computational Social Systems, Vol. 10, No. 5, pp. 2837-2846*.
+- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">SIGIR 2025</span> A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*.
+- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TCSS 2022</span> A dynamic information dissemination model based on user awareness and evolutionary games, Yunpeng Xiao, **Weikang He**, Tao Yang, Qian Li. *IEEE Transactions on Computational Social Systems, Vol. 10, No. 5, pp. 2837-2846*.
 
-#### 🧠 User Behavior Modeling
-- ``TNNLS 2024`` Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation, **Weikang He**, Yunpeng Xiao, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Neural Networks and Learning Systems, Vol. 35, No. 10, pp. 14356-14369*.
+#### 👤 User Behavior Modeling
+- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TNNLS 2024</span> Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation, **Weikang He**, Yunpeng Xiao, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Neural Networks and Learning Systems, Vol. 35, No. 10, pp. 14356-14369*.
+
+
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
