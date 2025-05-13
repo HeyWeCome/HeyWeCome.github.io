@@ -27,10 +27,12 @@ My research interest includes information diffusion mechanisms, user behavior mo
 - *2024.10*:  🎉🎉 One paper has been officially published in IEEE Transactions on Neural Networks and Learning Systems (CCF B).
 
 # 📝 Publications
-
-- ``SIGIR 2025`` A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*. [DOI](https://doi.org/10.1145/3726302.3729883)
-- ``TNNLS 2024`` Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation, **Weikang He**, Yunpeng Xiao, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Neural Networks and Learning Systems, Vol. 35, No. 10, pp. 14356-14369*. [DOI](https://doi.org/10.1109/TNNLS.2023.3278673)
+#### Information Diffusion Prediction
+- `SIGIR 2025` A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*. [DOI](https://doi.org/10.1145/3726302.3729883)
 - ``TCSS 2022`` A dynamic information dissemination model based on user awareness and evolutionary games, Yunpeng Xiao, **Weikang He**, Tao Yang, Qian Li. *IEEE Transactions on Computational Social Systems, Vol. 10, No. 5, pp. 2837-2846*.
+
+#### User Behavior Modeling
+- ``TNNLS 2024`` Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation, **Weikang He**, Yunpeng Xiao, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Neural Networks and Learning Systems, Vol. 35, No. 10, pp. 14356-14369*. [DOI](https://doi.org/10.1109/TNNLS.2023.3278673)
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
