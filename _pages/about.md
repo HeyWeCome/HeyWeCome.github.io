@@ -19,7 +19,7 @@ redirect_from:
 
 I work at Chongqing University of Posts and Telecommunications for PhD Degree now in Chongqing, advised by Yunpeng Xiao (肖云鹏).
 
-My research interest includes information diffusion mechanisms, user behavior modeling and rumor detection. I have published papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as SIGIR, TNNLS, TCSS.
+My research interest includes information diffusion mechanisms, user behavior modeling and rumor detection. I have published papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=mxeaepgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as SIGIR, TNNLS, TCSS.
 
 # 🔥 News
 - *2025.05*:  🎉🎉 Honored to serve as a Chair for the Workshop on Three-way Decision at the 11th International Joint Conference on Rough Sets (IJCRS 2025).
