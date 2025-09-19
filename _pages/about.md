@@ -22,6 +22,7 @@ I work at Chongqing University of Posts and Telecommunications for PhD Degree no
 My research interest includes information diffusion mechanisms, user behavior modeling and rumor detection. I have published papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=mxeaepgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as SIGIR, TNNLS, TCSS.
 
 # 🔥 News
+- *2025.09*: 🎉🎉 One paper has been accepted to TCSS.
 - *2025.07*: 🎉🎉 One paper has been accepted to TCSS.
 - *2025.05*:  🎉🎉 Honored to serve as a Chair for the Workshop on Three-way Decision at the 11th International Joint Conference on Rough Sets (IJCRS 2025).
 - *2025.04*:  🎉🎉 One full paper (oral presentation) has been accepted to SIGIR 2025 (CCF A).
@@ -34,6 +35,7 @@ My research interest includes information diffusion mechanisms, user behavior mo
 - <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TCSS 2022</span> A dynamic information dissemination model based on user awareness and evolutionary games, Yunpeng Xiao, **Weikang He**, Tao Yang, Qian Li. *IEEE Transactions on Computational Social Systems, Vol. 10, No. 5, pp. 2837-2846*.
 
 #### 👤 User Behavior Modeling
+- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TCSS 2025</span> Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation, **Weikang He**, Yunpeng Xiao, Wanjing Zhao, Rong Wang, and Qian Li. *IEEE Transactions on Computational Social Systems*.
 - <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TNNLS 2024</span> Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation, **Weikang He**, Yunpeng Xiao, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Neural Networks and Learning Systems, Vol. 35, No. 10, pp. 14356-14369*.
 
 
