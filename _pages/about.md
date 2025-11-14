@@ -25,6 +25,7 @@ I have published papers at the top international AI conferences and journals wit
 -->
 
 # 🔥 News
+- *2025.11*: 🎉🎉 One full paper (oral presentation) has been accepted to AAAI 2026 (CCF A).
 - *2025.10*: 🎉🎉 One paper has been accepted to INFFUS.
 - *2025.09*: 🎉🎉 One paper has been accepted to TCSS.
 - *2025.07*: 🎉🎉 One paper has been accepted to TCSS.
@@ -34,6 +35,7 @@ I have published papers at the top international AI conferences and journals wit
 
 # 📝 Publications
 #### 📈 Information Diffusion Prediction
+- <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">AAAI 2026</span> Directing Uncertainty-Aware Information Flow for Robust Diffusion Prediction, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *The 40th AAAI Conference on Artificial Intelligence (AAAI-26) (AAAI '26)*.
 - <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">SIGIR 2025</span> A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation, **Weikang He**, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, Qian Li. *Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)*.
 - <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TCSS 2025</span> An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions with Dynamic User Cognition, **Weikang He**, Yunpeng Xiao, Xuemei Mou, Tun Li, Rong Wang, Qian Li. *IEEE Transactions on Computational Social Systems*.
 - <span style="background-color: #03228d; color: white; padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 0.85em;">TCSS 2022</span> A dynamic information dissemination model based on user awareness and evolutionary games, Yunpeng Xiao, **Weikang He**, Tao Yang, Qian Li. *IEEE Transactions on Computational Social Systems, Vol. 10, No. 5, pp. 2837-2846*.
