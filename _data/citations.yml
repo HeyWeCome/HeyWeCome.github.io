@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-11'
 papers:
   mxeaepgAAAAJ:2osOgNQ5qMEC:
-    citations: 27
+    citations: 28
     title: A click-through rate model of e-commerce based on user interest and temporal behavior
     year: '2022'
   mxeaepgAAAAJ:9yKSN-GCB0IC:
-    citations: 27
+    citations: 29
     title: A dynamic information dissemination model based on user awareness and evolutionary games
     year: '2022'
   mxeaepgAAAAJ:LkGwnXOMwfcC:
-    citations: 5
+    citations: 7
     title: A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation
     year: '2025'
   mxeaepgAAAAJ:Se3iqnhoufwC:
-    citations: 2
-    title: An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition
+    citations: 3
+    title: An information diffusion prediction model aligning multiple propagation intentions with dynamic user cognition
     year: '2025'
   mxeaepgAAAAJ:UeHWp8X0CEIC:
-    citations: 12
+    citations: 14
     title: 'Interest HD: An interest frame model for recommendation based on HD image generation'
     year: '2024'
   mxeaepgAAAAJ:UebtZRa9Y70C:
@@ -26,19 +26,19 @@ papers:
     title: Towards a Foundation Model for Behavioral Intention Prediction through Multi-source Data Fusion
     year: '2025'
   mxeaepgAAAAJ:_FxGoFyzp5QC:
-    citations: 8
+    citations: 11
     title: An information dissemination model based on the rumor and antirumor and cognitive game
     year: '2025'
   mxeaepgAAAAJ:eQOLeE2rZwMC:
-    citations: 20
+    citations: 21
     title: 'ImNext: Irregular interval attention and multi-task learning for next POI recommendation'
     year: '2024'
   mxeaepgAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation
     year: '2025'
   mxeaepgAAAAJ:qjMakFHDy7sC:
-    citations: 28
+    citations: 29
     title: Influence prediction model for marketing campaigns on e-commerce platforms
     year: '2023'
   mxeaepgAAAAJ:ufrVoPGSRksC:
