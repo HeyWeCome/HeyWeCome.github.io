@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-29'
 papers:
   mxeaepgAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 31
     title: A click-through rate model of e-commerce based on user interest and temporal behavior
     year: '2022'
+  mxeaepgAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Disentangling Contextual and Background Signals for Social Diffusion Prediction
+    year: '2026'
   mxeaepgAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: Directing Uncertainty-Aware Information Flow for Robust Diffusion Prediction
@@ -14,7 +18,7 @@ papers:
     title: A dynamic information dissemination model based on user awareness and evolutionary games
     year: '2022'
   mxeaepgAAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 10
     title: A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation
     year: '2025'
   mxeaepgAAAAJ:Se3iqnhoufwC:
@@ -22,7 +26,7 @@ papers:
     title: An information diffusion prediction model aligning multiple propagation intentions with dynamic user cognition
     year: '2025'
   mxeaepgAAAAJ:UeHWp8X0CEIC:
-    citations: 14
+    citations: 15
     title: 'Interest HD: An interest frame model for recommendation based on HD image generation'
     year: '2024'
   mxeaepgAAAAJ:UebtZRa9Y70C:
@@ -30,11 +34,11 @@ papers:
     title: Towards a Foundation Model for Behavioral Intention Prediction through Multi-source Data Fusion
     year: '2025'
   mxeaepgAAAAJ:_FxGoFyzp5QC:
-    citations: 12
+    citations: 16
     title: An information dissemination model based on the rumor and antirumor and cognitive game
     year: '2025'
   mxeaepgAAAAJ:eQOLeE2rZwMC:
-    citations: 23
+    citations: 24
     title: 'ImNext: Irregular interval attention and multi-task learning for next POI recommendation'
     year: '2024'
   mxeaepgAAAAJ:hqOjcs7Dif8C:
@@ -46,6 +50,6 @@ papers:
     title: Influence prediction model for marketing campaigns on e-commerce platforms
     year: '2023'
   mxeaepgAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 7
     title: 'Tckt: Tree-based cross-domain knowledge transfer for next poi cold-start recommendation'
     year: '2025'
