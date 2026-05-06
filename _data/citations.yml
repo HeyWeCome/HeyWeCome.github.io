@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-06'
 papers:
   mxeaepgAAAAJ:2osOgNQ5qMEC:
     citations: 31
@@ -38,7 +38,7 @@ papers:
     title: An information dissemination model based on the rumor and antirumor and cognitive game
     year: '2025'
   mxeaepgAAAAJ:eQOLeE2rZwMC:
-    citations: 24
+    citations: 25
     title: 'ImNext: Irregular interval attention and multi-task learning for next POI recommendation'
     year: '2024'
   mxeaepgAAAAJ:hqOjcs7Dif8C:
@@ -50,6 +50,6 @@ papers:
     title: Influence prediction model for marketing campaigns on e-commerce platforms
     year: '2023'
   mxeaepgAAAAJ:ufrVoPGSRksC:
-    citations: 7
+    citations: 8
     title: 'Tckt: Tree-based cross-domain knowledge transfer for next poi cold-start recommendation'
     year: '2025'
