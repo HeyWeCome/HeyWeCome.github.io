@@ -4,7 +4,7 @@ collection: publications
 category: first_author_journals
 permalink: /publication/2025-10-01-behavioral-intention-foundation-model
 excerpt: "Foundation model for behavioral intention prediction through multi-source data fusion."
-date: 2025-10-01
+date: 2026-03-01
 venue: "Information Fusion"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S1566253525008619"
 citation: "Weikang He, Yunpeng Xiao, Tun Li, Rong Wang, and Qian Li. (2026). &quot;Towards a foundation model for behavioral intention prediction through multi-source data fusion.&quot; <i>Information Fusion</i>, 127, 103799."
