@@ -9,7 +9,7 @@ redirect_from:
 
 <span id="about-me"></span>
 
-Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Posts and Telecommunications (CQUPT) in Chongqing, China, advised by **[Prof. Yunpeng Xiao](https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm)**. My work focuses on **Social Computing**, **Information Diffusion**, and **Cognitive Modeling**. I develop data-driven approaches to model user behavior and information propagation dynamics within complex social networks.
+Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Posts and Telecommunications (CQUPT) in Chongqing, China, advised by **[Prof. Yunpeng Xiao](https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm)**. My work focuses on **Social Computing**, **Information Diffusion**, and **Cognitive Modeling**. I develop data-driven approaches to model user behavior and information propagation dynamics within complex social networks. My recent work explores uncertainty-aware diffusion prediction, cognitive adaptation, frequency-domain modeling for sequential recommendation, and multi-source data fusion for behavioral intention prediction.
 
 <div class="contact-panel">
   <p>If you have any questions regarding my work or are interested in collaborating with me, please feel free to contact me via:</p>
@@ -24,6 +24,8 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
 </section>
 
 <ul class="news-list news-list--featured">
+  <li><span class="news-icon news-icon--paper"><i class="fas fa-file-alt" aria-hidden="true"></i></span><span class="news-date">2026-05-07</span><span>Our paper <a href="https://doi.org/10.1109/ICASSP55912.2026.11463792">Disentangling Contextual and Background Signals for Social Diffusion Prediction</a> was presented orally at ICASSP 2026.</span></li>
+  <li><span class="news-icon news-icon--paper"><i class="fas fa-file-alt" aria-hidden="true"></i></span><span class="news-date">2026-04</span><span>Our paper <a href="https://doi.org/10.1109/TCSS.2025.3611999">Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation</a> appeared in IEEE Transactions on Computational Social Systems, 13(2), 1496-1512.</span></li>
   <li><span class="news-icon news-icon--award"><i class="fas fa-trophy" aria-hidden="true"></i></span><span class="news-date">2026-02-01</span><span>Received Outstanding Program Committee Award from AAAI 2026 (Top 0.16% among 26,421 PC members).</span></li>
   <li><span class="news-icon news-icon--paper"><i class="fas fa-file-alt" aria-hidden="true"></i></span><span class="news-date">2025-11-01</span><span>Our paper Directing Uncertainty-Aware Information Flow for Robust Diffusion Prediction was accepted to AAAI 2026 as an oral presentation.</span></li>
   <li><span class="news-icon news-icon--paper"><i class="fas fa-file-alt" aria-hidden="true"></i></span><span class="news-date">2025-10-01</span><span>One paper was accepted to Information Fusion.</span></li>
@@ -77,12 +79,12 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
       <li>
         <p><strong>Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation <span class="pub-badge pub-badge--ccf-c">CCF C</span></strong></p>
         <p><strong>Weikang He</strong>, Yunpeng Xiao, Wanjing Zhao, Rong Wang, and Qian Li.</p>
-        <p><em>IEEE Transactions on Computational Social Systems</em>, 1-17, 2025. <a href="https://doi.org/10.1109/TCSS.2025.3611999">DOI</a></p>
+        <p><em>IEEE Transactions on Computational Social Systems</em>, 13(2), 1496-1512, 2026. <a href="https://doi.org/10.1109/TCSS.2025.3611999">DOI</a></p>
       </li>
       <li>
         <p><strong>An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition <span class="pub-badge pub-badge--ccf-c">CCF C</span></strong></p>
         <p><strong>Weikang He</strong>, Yunpeng Xiao, Xuemei Mou, Tun Li, Rong Wang, and Qian Li.</p>
-        <p><em>IEEE Transactions on Computational Social Systems</em>, 1-16, 2025. <a href="https://doi.org/10.1109/TCSS.2025.3521654">DOI</a></p>
+        <p><em>IEEE Transactions on Computational Social Systems</em>, 13(1), 685-700, 2026. <a href="https://doi.org/10.1109/TCSS.2025.3591507">DOI</a></p>
       </li>
       <li>
         <p><strong>Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation <span class="pub-badge pub-badge--ccf-b">CCF B</span></strong></p>
@@ -111,7 +113,7 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
       <li>
         <p><strong>Disentangling Contextual and Background Signals for Social Diffusion Prediction <span class="pub-badge pub-badge--ccf-b">CCF B</span> <span class="pub-badge pub-badge--oral">Oral</span></strong></p>
         <p>Xuemei Mou, Yunpeng Xiao, <strong>Weikang He</strong>, Mengyang Huang, and Qian Li.</p>
-        <p><em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</em>, 2026. <a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=3583">URL</a></p>
+        <p><em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</em>, 1626-1630, 2026. <a href="https://doi.org/10.1109/ICASSP55912.2026.11463792">DOI</a> | <a href="https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=3583">URL</a></p>
       </li>
     </ol>
   </div>
